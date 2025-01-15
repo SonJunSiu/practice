@@ -1,0 +1,21 @@
+git log --oneline  (커밋 로그 확인)
+git status (git 현재 상태 확인)
+git add <file이름> : 변경사항을 stage area로 이동
+git commit -m "커밋 메시지"
+git config --global user.email "thswnstn9981@naver.com"
+git config --global user.name "Son"
+
+git commit --amend
+esc 명령어 / i 편집 / 
+:wq 저장후나가기
+:q! 저장하지 않고 나가기
+:q 나가기
+
+github에 올리기 : git remote add origin https://github.com/SonJunSiu/ssafy.git
+git push origin master
+(orgin 이라는 이름의 원격저장소에 master branch를 업로드 함)
+
+git clone : 링크 or 링크 . (폴더 안만들고 파일만 다운)
+복사합니다
+
+--remote?
