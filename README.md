@@ -35,7 +35,7 @@
 `요렇게` 하면 됩니다 `salasalsa`
 markdown guide 에서 cheet sheet를 보아라
 
-![image.jpg](.\image.jpg)
+![image.jpg](image.jpg)
 파일 자체가 아니라 참조중임 이미지는
 그래서 여기 이미지를 올리고 싶다면?
 이미지도 같이 제출하여라!
