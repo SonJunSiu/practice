@@ -1,43 +1,29 @@
-# 안니용
+### 👋 안녕하세요, 손준수입니다!
 
-## 이건 중간제목입니다
+---
 
-### 소제목
+#### 🧑‍💻 소개
 
-그냥 글자 쓰다가 **강조** 할떄는
+- **나이**: 28
+- **이메일**: [thswnstn9981@naver.com](mailto:thswnstn9981@naver.com)
+- **사용 언어**: Python
 
-*이태리어*
+#### 🌱 현재
 
-> 인용문입니다
->   두칸 들여쓰기도 똑같다
-> 리스트는
+- **Python**을 열심히 배우고 있는 중입니다.
 
--뺴기나
-*곱하기나
-+더하기 다된다
-1.안녕하세요
+---
 
-- 가끔 가다 직접 써야할때가 있따
+📈 GitHub 통계
+![손준수의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=SonJunSiu&show_icons=true&theme=dark&hide=contribs&count_private=true)
 
-- 4. 알아서 잘 맞춰서 쓰자
-     결국은 문법이다 보니 ..... 소스코드랑 겹칠 경우가 있다.
-     파이썬에서 주석은 #을 사용하는데 
-     1옆에 빽틱! 3개 쓰면 된다
-     
-     ```python
-          # 이건 코드 설명이다! < 얘는 파이썬 주석
-     
-     print('hellow world')
-     ```
+#### 💻 기술 스택
 
-간단한 단어를 따로 빠야하는 경우도
+```python
+# 주요 언어
+print("Python을 열심히 배워야합니다! 🐍")
+```
 
-`요렇게` 하면 됩니다 `salasalsa`
-markdown guide 에서 cheet sheet를 보아라
-
-![image.jpg](image.jpg)
-파일 자체가 아니라 참조중임 이미지는
-그래서 여기 이미지를 올리고 싶다면?
-이미지도 같이 제출하여라!
-그래서 내컴퓨터(절대경로)를 제출하지말고 README 기준(상대경로)를 제출하여라
-.\이미지 하면 내 위치에 있는거 들고와라
+🔗 연락하기
+📫 이메일로 언제든지 연락주세요.
+<span style="color:green; background-color:black; font-family:Arial;">
