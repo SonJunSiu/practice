@@ -1,12 +1,42 @@
-git log --oneline  (커밋 로그 확인)
-git status (git 현재 상태 확인)
-git add <file이름> : 변경사항을 stage area로 이동
-git commit -m "커밋 메시지"
-git config --global user.email "thswnstn9981@naver.com"
-git config --global user.name "Son"
+# 안니용
 
-git commit --amend
-esc 명령어 / i 편집 / 
-:wq 저장후나가기
-:q! 저장하지 않고 나가기
-:q 나가기
+## 이건 중간제목입니다
+
+### 소제목
+
+그냥 글자 쓰다가 **강조** 할떄는
+
+*이태리어*
+
+> 인용문입니다
+>   두칸 들여쓰기도 똑같다
+> 리스트는
+
+-뺴기나
+*곱하기나
++더하기 다된다
+1.안녕하세요
+
+- 가끔 가다 직접 써야할때가 있따
+
+- 4. 알아서 잘 맞춰서 쓰자
+     결국은 문법이다 보니 ..... 소스코드랑 겹칠 경우가 있다.
+     파이썬에서 주석은 #을 사용하는데 
+     1옆에 빽틱! 3개 쓰면 된다
+     
+     ```python
+          # 이건 코드 설명이다! < 얘는 파이썬 주석
+     
+     print('hellow world')
+     ```
+
+간단한 단어를 따로 빠야하는 경우도
+
+`요렇게` 하면 됩니다 `salasalsa`
+markdown guide 에서 cheet sheet를 보아라
+
+![image.jpg](C:\Users\SSAFY\Desktop\python\practice\image.jpg)
+파일 자체가 아니라 참조중임 이미지는
+그래서 여기 이미지를 올리고 싶다면?
+이미지도 같이 제출하여라!
+그래서 내컴퓨터(절대경로)를 제출하지말고 상대경로를 제출하여라
