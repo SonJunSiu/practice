@@ -35,8 +35,9 @@
 `요렇게` 하면 됩니다 `salasalsa`
 markdown guide 에서 cheet sheet를 보아라
 
-![image.jpg](C:\Users\SSAFY\Desktop\python\practice\image.jpg)
+![image.jpg](.\image.jpg)
 파일 자체가 아니라 참조중임 이미지는
 그래서 여기 이미지를 올리고 싶다면?
 이미지도 같이 제출하여라!
-그래서 내컴퓨터(절대경로)를 제출하지말고 상대경로를 제출하여라
+그래서 내컴퓨터(절대경로)를 제출하지말고 README 기준(상대경로)를 제출하여라
+.\이미지 하면 내 위치에 있는거 들고와라
